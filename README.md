@@ -7,8 +7,9 @@
   </a>
   </div>
 <h1>
-  Hey There
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello there, I am Divyansh Srivastava
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
+   Welcome to my Github profile feel free to contribute 👍
 </h1>
 </div>
 <div align="center">
@@ -18,7 +19,7 @@
 
 
 ---
-### 🧑‍💻: About Me :
+### 🧑‍💻 About Me :
 - 👋 I am a currently a <B>B.Tech Computer Science</B>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> undergrad student from India.
 - 👨‍💻Really into development.
 - 🌱Currently in the beautiful phase of learning.
