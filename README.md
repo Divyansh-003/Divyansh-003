@@ -20,7 +20,7 @@
 
 ---
 ### 🧑‍💻 About Me :
-- 👋 I am a currently a <B>B.Tech Computer Science</B>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> undergrad student from India.
+- 👋 I am currently a <B>B.Tech Computer Science</B>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> undergrad student from India.
 - 👨‍💻Really into development.
 - 🌱Currently in the beautiful phase of learning.
 - ⚡Always ready for challenges.
