@@ -17,7 +17,7 @@
 </div>
 
 
-
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Divyansh-003)
 ---
 # 💫 About Me:
 🔭 Currently working on: Exciting coding projects to sharpen my skills.<br>👯 Looking to collaborate on: Innovative tech projects that inspire change.<br>🤝 Seeking help with: Advanced data structures and algorithms.<br>🌱 Currently learning: Machine learning and AI to make tech more intelligent.<br>💬 Ask me about: Anything related to coding, web development, or my travel adventures!<br>
